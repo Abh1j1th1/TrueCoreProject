@@ -1,7 +1,7 @@
 # TrueCoreProject
 CoreProject -ToDOApp
 <br>
-there are two other brancges with 
+there are two other branches with 
 <br>
 flutter -FrontEnd
 <br>
